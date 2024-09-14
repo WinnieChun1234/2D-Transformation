@@ -2,7 +2,7 @@
 
 This is the first assignment of the computer graphics course. The assignment comes with a template and my tasks were to deal with the mouse interaction and collects these points which are input by the mouse to form triangles, to draw these triangles with OpenGL function, and to generate a fractal uses these transformations based on the transformation matrices created from these triangle input.
 
-### To draw fractals based on these transformations, I have done the following features in the Trans2d.cpp :
+### To draw fractals based on these transformations, I have done the following features in the code.cpp :
 
 1. To deal with the mouse interaction and use the points which are input by the mouse to form triangles in MouseInteraction(double x, double y);
    
